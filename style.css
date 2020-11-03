@@ -11,10 +11,12 @@
 
 
 }
+body {
+    overflow-x: hidden; /* Hide horizontal scrollbar */
+  }
 .navbar-brand img{
     height: 80px;
     padding-left: 30px;
-    
 }
 .navbar-nav li{
     padding: 0 10px;
